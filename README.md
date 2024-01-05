@@ -2,7 +2,7 @@ We need python 3.6 environment, we can use Conda to config.
 
 # Creating a Conda Environment
 
-Run the following command, and press `y` to install any missing packages.
+Run the following command.
 
     conda create --name cmpt310 python=3.6
     conda activate cmpt310
